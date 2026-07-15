@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Wenn Sie dieses Tool in Ihrer Arbeit verwenden, zitieren Sie es bitte wie folgt:"
+title: "Matthäus-Effekt Simulator 2.0"
+authors:
+  - family-names: "Janatzek"
+    given-names: "Uwe"
+    # orcid: "https://orcid.org/0009-0000-4404-7626"
+date-released: 2026-07-15
+url: "https://github.com/Dr-U-Janatzek/Matthaeus-Effekt-Simulator-2.0"
