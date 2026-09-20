@@ -48,7 +48,7 @@ Die Anwendung wurde als modulares PHP-Skript implementiert und ist auf eine hohe
 
 ### Installation & Inbetriebnahme
 
-1.  **Download:** Laden Sie das Repository als ZIP-Datei herunter oder klonen Sie es via Git:
+1.  **Download:** Laden Sie das Repository als ZIP-Datei herunter, kopieren Sie den Code direkt aus der yule2.php oder klonen Sie es via Git:
     ```bash
     git clone [https://github.com/Dr-U-Janatzek/Matthaeus-Effekt-Simulator-2.0](https://github.com/Dr-U-Janatzek/Matthaeus-Effekt-Simulator-2.0)
     ```
