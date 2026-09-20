@@ -50,7 +50,7 @@ Die Anwendung wurde als modulares PHP-Skript implementiert und ist auf eine hohe
 
 1.  **Download:** Laden Sie das Repository als ZIP-Datei herunter oder klonen Sie es via Git:
     ```bash
-    git clone [[URL-DEINES-REPOS](https://github.com/Dr-U-Janatzek/Matthaeus-Effekt-Simulator-2.0)]
+    git clone [[https://github.com/Dr-U-Janatzek/Matthaeus-Effekt-Simulator-2.0](https://github.com/Dr-U-Janatzek/Matthaeus-Effekt-Simulator-2.0)](https://github.com/Dr-U-Janatzek/Matthaeus-Effekt-Simulator-2.0)
     ```
 2.  **Verzeichnis:** Verschieben Sie die Dateien in das Verzeichnis Ihres Webservers (z. B. `/var/www/html/` oder den `htdocs`-Ordner Ihres lokalen Webservers).
 3.  **Start:** Rufen Sie die Datei `yule2.php` über Ihren Webbrowser auf, z. B. über `http://localhost/yule2.php`.
